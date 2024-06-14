@@ -30,6 +30,6 @@ Welcome to the Fruit Juice Landing Page! This project is an animated and visuall
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/fruit-juice-landing-page.git
+   git clone https://github.com/DNXEMPIRE-1/fruit-juice-landing-page.git
    cd fruit-juice-landing-page
 
