@@ -30,4 +30,13 @@ Welcome to the Fruit Juice Landing Page! This project is an animated and visuall
    ```bash
    git clone https://github.com/DNXEMPIRE-1/fruit-juice-landing-page
    cd fruit-juice-landing-page
+📸 Screenshots
 
+
+##🌟 Contributing
+We welcome contributions to enhance the Fruit Juice Landing Page. If you have ideas or skills to improve this project, feel free to open an issue or submit a pull request.
+
+##📜 License
+This project is licensed under no licence
+
+Enjoy our refreshing and delightful Fruit Juice Landing Page! 🍉🥤🍑
