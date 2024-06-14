@@ -32,7 +32,7 @@ Welcome to the Fruit Juice Landing Page! This project is an animated and visuall
    cd fruit-juice-landing-page
    
 ## 📸 Screenshots 
-
+https://github.com/DNXEMPIRE-1/Fruit-Juice-Landing-Page/blob/main/fruit.png
 
 ## 🌟 Contributing
 We welcome contributions to enhance the Fruit Juice Landing Page. If you have ideas or skills to improve this project, feel free to open an issue or submit a pull request.
