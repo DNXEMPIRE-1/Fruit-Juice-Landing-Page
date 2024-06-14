@@ -20,16 +20,14 @@ Welcome to the Fruit Juice Landing Page! This project is an animated and visuall
 
 **Frontend:**
   - HTML5, CSS3, JavaScript
-  - [Specify any frontend framework or library used, e.g., React, Vue]
 
 **Animations:**
   - CSS Animations
-  - [Specify any animation library used, e.g., GSAP, Animate.css]
 
 ## 🚀 How to Use
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/DNXEMPIRE-1/fruit-juice-landing-page.git
+   git clone https://github.com/DNXEMPIRE-1/fruit-juice-landing-page
    cd fruit-juice-landing-page
 
